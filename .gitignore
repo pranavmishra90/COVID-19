@@ -1,0 +1,8 @@
+#Ignore the following directories
+Data/
+Forms/
+Papers/
+Presentations/
+.vscode
+
+#Ignore the following files
