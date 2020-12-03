@@ -1,12 +1,15 @@
-# COVID-19 data analysis by Dr. Shekhar Mishra and Dr. Pranav Mishra
+# COVID-19 data analysis
+### Shekhar Mishra, Ph.D. [1] and Pranav Mishra, MBBS[2]
+[1] Discovery Science, Innovation Management; Naperville, IL, USA.
+[2] Kasturba Medical College, Manipal; Manipal, KA, India
 
 We join scientists around the world in analying COVID-19 data. 
 
-![Phase 1 Countries](./Figures/Phase 1 Countries.png)
+![Phase 1 Countries](./Figures/Phase_1_Countries.png)
 
-![Phase 2 BRIAS Countries](./Figures/Phase 2 - BRIAS Countries.png)
+![Phase 2 BRIAS Countries](./Figures/Phase_2_BRIAS_Countries.png)
 
-![Doubling Time when crossing 1M cases](./Figures/Doubling Time when Crossing 1M Cases.png)
+![Doubling Time when crossing 1M cases](./Figures/Doubling_time_when_crossing_1M_cases.png)
 
 ### Table 1: Doubling time as the country crossed 1M cases
 |Country|Days|
