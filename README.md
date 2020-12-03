@@ -5,11 +5,11 @@
 
 We join scientists around the world in analying COVID-19 data. 
 
-![Phase 1 Countries](./Figures/Phase_1_Countries.png)
+![Phase 1 Countries](./Figures/Phase_1_Countries.jpg)
 
-![Phase 2 BRIAS Countries](./Figures/Phase_2_BRIAS_Countries.png)
+![Phase 2 BRIAS Countries](./Figures/Phase_2_BRIAS_Countries.jpg)
 
-![Doubling Time when crossing 1M cases](./Figures/Doubling_time_when_crossing_1M_cases.png)
+![Doubling Time when crossing 1M cases](./Figures/Doubling_time_when_crossing_1M_cases.jpg)
 
 ### Table 1: Doubling time as the country crossed 1M cases
 |Country|Days|
