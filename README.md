@@ -16,7 +16,7 @@ We join scientists around the world in analying COVID-19 data.
 |Country|# Cases | Doubling Time (Days)  
 | :----------:  | :----------:  | :----------:  |  
 US |14139577 | 63.0  
-India |9571559 | 63.0  
+India |9571559 | 208.0  
 
   
 
