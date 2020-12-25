@@ -2,9 +2,9 @@
 COVID-19 Analysis
 =================
   
-### Shekhar Mishra, Ph.D. [1] and Pranav Mishra, MBBS[2]  
-##### [1] Discovery Science, Innovation Management; Naperville, IL, USA. 
- ##### [2] Kasturba Medical College, Manipal; Manipal, KA, India
+### Pranav Mishra, MBBS [1] and Shekhar Mishra, Ph.D. [2]  
+##### [1] Kasturba Medical College, Manipal; Manipal, KA, India 
+ ##### [2] Discovery Science, Innovation Management; Naperville, IL, USA.
 
 .  
 We join scientists around the world in analying COVID-19 data.  
@@ -12,11 +12,11 @@ We join scientists around the world in analying COVID-19 data.
 
 
   
-**This information was last updated:** Thursday, Dec 03, 2020 at 12:00:00 AM  
+**This information was last updated:** Wednesday, Dec 23, 2020 at 12:00:00 AM  
 |Country|# Cases | Doubling Time (Days)  
 | :----------:  | :----------:  | :----------:  |  
-US |14139577 | 63.0  
-India |9571559 | 208.0  
+US |18458373 | 69.0  
+India |10123778 | 338.0  
 
   
 
@@ -35,7 +35,7 @@ India |9571559 | 208.0
 
 **Figure 3 - Doubling time at the 1-million case mark:** A number of countries have surpassed the 1-million case mark. The rate at which they cross through the mark varies. A 7-day window doubling time was calculated as each of the countries above crossed 1 million cases of COVID-19. A smaller doubling time indicates rapid disease expansion, whereas a longer doubling time indicates slower expansion.
 
-![Doubling Time Histogram](./Figures/Doubling_time_histogram.jpg) 
+![Doubling Time Histogram](./Figures/Doubling_time_histogram_(latest).jpg.jpg) 
 
 **Figure 4 - Distribution of doubling times:** As different countries implement different disease mitigation strategies, the rate of expansion within each country varies. A histogram is created of case doubling times, in days, for each country. Countries with a doubling time greater than 365 days are excluded due to likely erronous or incomplete data.  
 # License  
