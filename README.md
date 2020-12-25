@@ -35,7 +35,7 @@ India |10123778 | 338.0
 
 **Figure 3 - Doubling time at the 1-million case mark:** A number of countries have surpassed the 1-million case mark. The rate at which they cross through the mark varies. A 7-day window doubling time was calculated as each of the countries above crossed 1 million cases of COVID-19. A smaller doubling time indicates rapid disease expansion, whereas a longer doubling time indicates slower expansion.
 
-![Doubling Time Histogram](./Figures/Doubling_time_histogram_(latest).jpg.jpg) 
+![Doubling Time Histogram](./Figures/Doubling_time_histogram_(latest).jpg) 
 
 **Figure 4 - Distribution of doubling times:** As different countries implement different disease mitigation strategies, the rate of expansion within each country varies. A histogram is created of case doubling times, in days, for each country. Countries with a doubling time greater than 365 days are excluded due to likely erronous or incomplete data.  
 # License  
