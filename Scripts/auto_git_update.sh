@@ -4,7 +4,7 @@ cd ../
 git add .
 
 # Commit changes with message with current date stamp
-git commit -m "Remove update at `date +'%d-%m-%Y %H:%M:%S'`"
+git commit -m "Remote update at `date +'%Y-%m-%d %H:%M:%S'`"
 
 git remote add master
 
