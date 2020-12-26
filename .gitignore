@@ -8,3 +8,4 @@ Embed/
 .vscode
 
 #Ignore the following files
+*.log
