@@ -12,7 +12,7 @@ We join scientists around the world in analying COVID-19 data.
 
 
   
-**This information was last updated:** Friday, Dec 25, 2020 at 12:00:00 AM   
+The figures and tables below are created with source data from the **COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19)**. The dataset is licensed as CC BY 4.0 by by the Johns Hopkins University on behalf of its Center for Systems Science in Engineering. Copyright Johns Hopkins University 2020 **The last update from JHU was: *Friday, Dec 25, 2020 at 12:00:00 AM   
 |Country|# Cases | Doubling Time (Days)  
 | :----------:  | :----------:  | :----------:  |  
 US |18756360 | 80.0  
@@ -31,9 +31,7 @@ India |10169118 | 355.0
 
 **Figure 2 - Projection of COVID-19 expansion on Phase 2 BRIAS countries:** This group of countries includes the large developing nations of Brazil, Russia, India, and South Africa. We have additionally included Australia as a country of interest, which escaped the initial international expansion of COVID-19.
 
-![Doubling Time when crossing 1M cases](https://github.com/pranavmishra90/COVID-19/blob/master/Figures/Doubling_time_when_crossing_1M_cases.jpg) 
-
-**Figure 3 - Doubling time at the 1-million case mark:** A number of countries have surpassed the 1-million case mark. The rate at which they cross through the mark varies. A 7-day window doubling time was calculated as each of the countries above crossed 1 million cases of COVID-19. A smaller doubling time indicates rapid disease expansion, whereas a longer doubling time indicates slower expansion.
+**Figure 3 - Coming soon, pending publication**
 
 ![Doubling Time Histogram](https://github.com/pranavmishra90/COVID-19/blob/master/Figures/Doubling_time_histogram_(latest).jpg) 
 
@@ -41,7 +39,7 @@ India |10169118 | 355.0
 # Dashboard details
 
   
-This dashboard file was automatically generated at Saturday, Dec 26, 2020 at 12:23:19 AM CST. It took 0:00:12.594471 to run.  
+This dashboard file was automatically generated at Saturday, Dec 26, 2020 at 01:38:48 AM CST. It took 0:00:09.799208 to run.  
 # License  
 The content of this project itself is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license, and the underlying source code used to format and display that content is licensed under the MIT license.  
 ### Content License  
