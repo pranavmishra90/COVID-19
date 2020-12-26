@@ -12,11 +12,11 @@ We join scientists around the world in analying COVID-19 data.
 
 
   
-**This information was last updated:** Thursday, Dec 24, 2020 at 12:00:00 AM   
+**This information was last updated:** Friday, Dec 25, 2020 at 12:00:00 AM   
 |Country|# Cases | Doubling Time (Days)  
 | :----------:  | :----------:  | :----------:  |  
-US |18650454 | 74.0  
-India |10146845 | 344.0  
+US |18756360 | 80.0  
+India |10169118 | 355.0  
 
   
 
@@ -41,7 +41,7 @@ India |10146845 | 344.0
 # Dashboard details
 
   
-This dashboard file was automatically generated at Friday, Dec 25, 2020 at 11:39:47 PM CST. It took 0:00:14.351860 to run.  
+This dashboard file was automatically generated at Saturday, Dec 26, 2020 at 12:05:55 AM CST. It took 0:00:14.632377 to run.  
 # License  
 The content of this project itself is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license, and the underlying source code used to format and display that content is licensed under the MIT license.  
 ### Content License  
