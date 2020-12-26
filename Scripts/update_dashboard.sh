@@ -21,7 +21,7 @@ cp ./README.md ./Wordpress/dashboard_latest.md
 git add .
 
 # Commit changes with message with current date stamp
-git commit -m "Remote update at `date +'%Y-%m-%d %H:%M:%S'`"
+git commit -m "Automatic update at `date +'%Y-%m-%d %H:%M:%S'`"
 
 # git remote add master
 

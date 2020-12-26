@@ -7,12 +7,13 @@ COVID-19 Analysis
 ##### [2] Discovery Science, Innovation Management; Naperville, IL, USA.
 
   
-We join scientists around the world in analying COVID-19 data.  
-## Important Numbers
-
+We join scientists around the world in analying COVID-19 data.
 
   
-The figures and tables below are created with source data from the **COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19)**. The dataset is licensed as CC BY 4.0 by by the Johns Hopkins University on behalf of its Center for Systems Science in Engineering. Copyright Johns Hopkins University 2020 **The last update from JHU was:** Friday, Dec 25, 2020 at 12:00:00 AM   
+## Update Information  
+**Latest update from JHU CSSE COVID-19 Data:** Friday, Dec 25, 2020 at 12:00:00 AM   
+## Important Numbers
+  
 |**Country**|**# Cases**|**Doubling Time (Days)**  
 | :----------:  | :----------:  | :----------:  |  
 US |18756360 | 80.0  
@@ -39,7 +40,7 @@ India |10169118 | 355.0
 # Dashboard details
 
   
-This dashboard file was automatically generated at Saturday, Dec 26, 2020 at 03:02:24 AM CST. It took 0:00:10.742844 to run.  
+This dashboard file was automatically generated at Saturday, Dec 26, 2020 at 04:06:01 AM CST. It took 0:00:13.110892 to run.  
 # License  
 The content of this project itself is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license, and the underlying source code used to format and display that content is licensed under the MIT license.  
 ### Content License  
@@ -51,3 +52,6 @@ The content of this project itself is licensed under the Creative Commons Attrib
  <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">COVID-19 Analysis</span> by [Pranav Mishra and Shekhar Mishra](https://github.com/pranavmishra90/COVID-19) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).  
 ### Software License  
 MIT License - Copyright (c) 2020 Pranav Mishra and Shekhar Mishra
+
+  
+The figures and tables below are created with source data from the **COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19)**. The dataset is licensed as CC BY 4.0 by by the Johns Hopkins University on behalf of its Center for Systems Science in Engineering. Copyright Johns Hopkins University 2020
