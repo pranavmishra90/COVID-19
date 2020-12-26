@@ -6,7 +6,7 @@ git add .
 # Commit changes with message with current date stamp
 git commit -m "Remote update at `date +'%Y-%m-%d %H:%M:%S'`"
 
-git remote add master
+# git remote add master
 
 # Push changes towards GitHub
 git push -u origin master
