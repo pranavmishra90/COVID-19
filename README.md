@@ -2,7 +2,7 @@
 COVID-19 Analysis
 =================
   
-### Pranav Mishra, MBBS [1] and Shekhar Mishra, Ph.D. [2]  
+### Pranav Kumar Mishra, MBBS [1] and Shekhar Mishra, Ph.D. [2]  
 ##### [1] Kasturba Medical College, Manipal; Manipal, KA, India  
 ##### [2] Discovery Science, Innovation Management; Naperville, IL, USA.
 
@@ -12,7 +12,7 @@ We join scientists around the world in analying COVID-19 data.
 **Latest update from JHU CSSE COVID-19 Data:** Friday, Dec 25, 2020 at 12:00:00 AM 
 
   
-This dashboard file was automatically generated at Saturday, Dec 26, 2020 at 04:11:06 AM CST. It took 0:00:18.954787 to run.  
+This dashboard file was automatically generated at Saturday, Dec 26, 2020 at 05:00:22 AM CST. It took 0:00:08.263684 to run.  
 ## Important Numbers
   
 |**Country**|**# Cases**|**Doubling Time (Days)**  
