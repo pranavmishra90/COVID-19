@@ -9,4 +9,4 @@ git commit -m "Remove update at `date +'%d-%m-%Y %H:%M:%S'`"
 git remote add master
 
 # Push changes towards GitHub
-git push -u  master
+git push -u origin master
