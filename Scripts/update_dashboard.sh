@@ -15,7 +15,7 @@ date >> run_log.txt
 
 #Push to github
 cd ~/research/covid-19/
-cp ./README.md ./Wordpress/dashboard_latest.md
+# cp ./README.md ./Wordpress/dashboard_latest.md #The new Jupyter notebook will output both files
 
 # Add all files to the repository with respect to .gitignore rules
 git add .
