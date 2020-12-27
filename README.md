@@ -6,6 +6,8 @@ COVID-19 Analysis
 ##### [1] Kasturba Medical College, Manipal; Manipal, KA, India  
 ##### [2] Discovery Science, Innovation Management; Naperville, IL, USA.
 
+[![DOI](https://zenodo.org/badge/287867933.svg)](https://zenodo.org/badge/latestdoi/287867933)
+
   
 We join scientists around the world in analying COVID-19 data.  
 ## Dashboard details  
