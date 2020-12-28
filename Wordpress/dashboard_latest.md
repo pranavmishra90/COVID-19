@@ -14,7 +14,7 @@ This repository is a working paper. It is published by Zenodo and indexed in ope
 **Latest update from JHU CSSE COVID-19 Data:** Saturday, Dec 26, 2020 at 12:00:00 AM 
 
   
-This dashboard file was automatically generated at Sunday, Dec 27, 2020 at 09:30:05 PM CST. It took 0:00:10.753139 to run.  
+This dashboard file was automatically generated at Sunday, Dec 27, 2020 at 09:57:25 PM CST. It took 0:00:12.443964 to run.  
 ## Important Numbers
   
 |**Country**|**# Cases**|**Doubling Time (Days)**  
@@ -44,9 +44,9 @@ India |10187850 | 371.0
 **Figure 4 - Distribution of doubling times:** As different countries implement different disease mitigation strategies, the rate of expansion within each country varies. A histogram is created of case doubling times, in days, for each country. Countries with a doubling time greater than 365 days are excluded due to likely erronous or incomplete data.  
 ## References
 
-1. Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Inf Dis. 20(5):533-534. doi: 10.1016/S1473-3099(20)30120-1
+1. Dong, E., Du, H., & Gardner, L. (2020). An interactive web-based dashboard to track COVID-19 in real time. The Lancet Infectious Diseases, S1473309920301201. https://doi.org/10.1016/S1473-3099(20)30120-1
 
-2. Mishra, P., & Mishra, S. (2020). A deductive approach to modeling the spread of COVID-19. Cold Spring Harbor Laboratory. https://doi.org/10.1101/2020.03.26.20044651  
+2. Mishra, P., & Mishra, S. (2020). A deductive approach to modeling the spread of COVID-19. MedRxiv, 2020.03.26.20044651. https://doi.org/10.1101/2020.03.26.20044651  
 # Citations  
 Thank you for visiting the Mishra COVID-19 Dashboard. This dashboard is hosted on [Github](https://github.com/pranavmishra90/COVID-19). It published by [Zenodo](https://zenodo.org/record/4394299) and indexed by openAIRE (doi:10.5281/zenodo.4394299)  
   
