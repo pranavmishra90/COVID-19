@@ -11,16 +11,16 @@ COVID-19 Dashboard
   
 This repository is a working paper. It is published by Zenodo and indexed in openAIRE. Latest version: [![DOI](https://zenodo.org/badge/287867933.svg)](https://zenodo.org/badge/latestdoi/287867933)  
 ## Dashboard details  
-**Latest update from JHU CSSE COVID-19 Data:** Friday, Apr 30, 2021 at 12:00:00 AM 
+**Latest update from JHU CSSE COVID-19 Data:** Saturday, May 01, 2021 at 12:00:00 AM 
 
   
-This dashboard file was automatically generated at Saturday, May 01, 2021 at 01:00:53 AM CDT. It took 0:00:19.952459 to run.  
+This dashboard file was automatically generated at Sunday, May 02, 2021 at 01:00:53 AM CDT. It took 0:00:11.624512 to run.  
 ## Important Numbers
   
 |**Country**|**# Cases**|**Doubling Time (Days)**  
 | :----------:  | :----------:  | :----------:  |  
-US |32345062 | 521.0  
-India |18762976 | 48.0
+US |32392001 | 497.0  
+India |19164969 | 48.0
 
 **Table 1 - Doubling time of select countries**: The COVID-19 case doubling time is calculated using a 7 day window. Based on the growth in the last 7 days, we can predict how long it will take for the number of cases to double in each country. Longer doubling times are better, because it indicates that it will take a longer time for the number of infections to double.  
 
