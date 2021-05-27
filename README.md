@@ -1,18 +1,22 @@
 
-COVID-19 Analysis
-=================
+COVID-19 Dashboard
+==================
   
-### Pranav Mishra, MBBS [1] and Shekhar Mishra, Ph.D. [2]  
-##### [1] Kasturba Medical College, Manipal; Manipal, KA, India 
- ##### [2] Discovery Science, Innovation Management; Naperville, IL, USA.
+### Pranav Kumar Mishra, MBBS [1] and Shekhar Mishra, Ph.D. [2]  
+##### [1] Kasturba Medical College, Manipal; Manipal, KA, India  
+##### [2] Discovery Science, Innovation Management; Naperville, IL, USA.
 
-.  
-We join scientists around the world in analying COVID-19 data.  
+
+
+  
+This repository is an automatically updating working paper. It is published by Zenodo and indexed in openAIRE. Latest version: [![DOI](https://zenodo.org/badge/287867933.svg)](https://zenodo.org/badge/latestdoi/287867933)  
+## Dashboard details  
+**Latest update from JHU CSSE COVID-19 Data:** Wednesday, May 26, 2021 at 12:00:00 AM
+
+  
+This dashboard file was automatically generated at Thursday, May 27, 2021 at 05:06:03 PM. It took 0:00:29.562157 to run.  
 ## Important Numbers
-
-
   
-**This information was last updated:** Wednesday, May 26, 2021 at 12:00:00 AM  
 |Country|# Cases | Doubling Time (Days)  
 | :----------:  | :----------:  | :----------:  |  
 US |33190470 | 1202.0  
