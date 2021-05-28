@@ -13,7 +13,7 @@
 
 
 # Update the data
-------------------------------
+#------------------------------
 #Start anaconda
 eval "$(conda shell.bash hook)"
 conda activate base
