@@ -29,3 +29,9 @@ git commit -m "Automatic update at `date +'%Y-%m-%d %H:%M:%S'`"
 
 # Push changes towards GitHub
 git push -u origin master
+
+############################################
+# Hardlink images to wordpress directory
+############################################
+rm -f /home/pranav/personal-website/sites/wordpress/html/wp-content/research/covid-19/covid-19-dashboard-figures/*
+cp -lR ./Figures/* /home/pranav/personal-website/sites/wordpress/html/wp-content/research/covid-19/covid-19-dashboard-figures
