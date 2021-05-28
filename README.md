@@ -14,7 +14,7 @@ This repository is an automatically updating working paper. It is published by Z
 **Latest update from JHU CSSE COVID-19 Data:** Thursday, May 27, 2021 at 12:00:00 AM
 
   
-This dashboard file was automatically generated at Friday, May 28, 2021 at 04:14:37 PM. It took 0:00:14.636955 to run.  
+This dashboard file was automatically generated at Friday, May 28, 2021 at 04:20:22 PM. It took 0:00:13.576946 to run.  
 ## Important Numbers
   
 |Country|# Cases | Doubling Time (Days)  

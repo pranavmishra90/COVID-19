@@ -14,7 +14,7 @@ This repository is an automatically updating working paper. It is published by Z
 **Latest update from JHU CSSE COVID-19 Data:** Thursday, May 27, 2021 at 12:00:00 AM
 
   
-This dashboard file was automatically generated at Friday, May 28, 2021 at 04:14:37 PM. It took 0:00:14.636955 to run.  
+This dashboard file was automatically generated at Friday, May 28, 2021 at 04:20:22 PM. It took 0:00:13.576946 to run.  
 ## Important Numbers
   
 |Country|# Cases | Doubling Time (Days)  
@@ -39,11 +39,11 @@ India |27555457 | 103.0
 
 **Figure 3 - Doubling time at the 1-million case mark:** A number of countries have surpassed the 1-million case mark. The rate at which they cross through the mark varies. A 7-day window doubling time was calculated as each of the countries above crossed 1 million cases of COVID-19. A smaller doubling time indicates rapid disease expansion, whereas a longer doubling time indicates slower expansion.
 
-![Doubling Time when crossing 5M cases](https://github.com/pranavmishra90/COVID-19/blob/master/FiguresDoubling_time_when_crossing_5M_cases.jpg) 
+![Doubling Time when crossing 5M cases](https://github.com/pranavmishra90/COVID-19/blob/master/Figures/Doubling_time_when_crossing_5M_cases.jpg) 
 
 **Figure 4 - Doubling time at the 5-million case mark:** A number of countries have surpassed the 5-million case mark. The rate at which they cross through the mark varies. A 7-day window doubling time was calculated as each of the countries above crossed 5 million cases of COVID-19. A smaller doubling time indicates rapid disease expansion, whereas a longer doubling time indicates slower expansion.
 
-![Doubling Time when crossing 10M cases](https://github.com/pranavmishra90/COVID-19/blob/master/FiguresDoubling_time_when_crossing_10M_cases.jpg) 
+![Doubling Time when crossing 10M cases](https://github.com/pranavmishra90/COVID-19/blob/master/Figures/Doubling_time_when_crossing_10M_cases.jpg) 
 
 **Figure 5 - Doubling time at the 10-million case mark:** A number of countries have surpassed the 10-million case mark. The rate at which they cross through the mark varies. A 7-day window doubling time was calculated as each of the countries above crossed 10 million cases of COVID-19. A smaller doubling time indicates rapid disease expansion, whereas a longer doubling time indicates slower expansion.
 
