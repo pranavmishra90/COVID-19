@@ -8,6 +8,8 @@ conda activate base
 cd ~/research/covid-19/Notebooks
 runipy COVID-19\ Prediction.ipynb 
 
+cp -l ~/research/covid-19/README.md ~/research/covid-19/wordpress-dashboard.md
+
 #Print current time in log
 cd ~/research/covid-19/Scripts/Logs/
 date >> run_log.txt
