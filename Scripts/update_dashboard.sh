@@ -21,7 +21,7 @@ conda activate base
 #Run the Jupyter Notebook
 
 #Go up to the root directory of the respository
-cd ../
+cd ~/research/covid-19
 runipy ./Notebooks/COVID-19\ Prediction.ipynb 
 
 #Print current time in log
