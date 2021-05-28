@@ -10,10 +10,8 @@
 # runipy - to execute jupyter notebooks as python files (old, no longer maintained, but working)
 # anaconda - math/science python environment
 
-
-
 # Update the data
-------------------------------
+#------------------------------
 #Start anaconda
 eval "$(conda shell.bash hook)"
 conda activate base
@@ -28,8 +26,8 @@ runipy ./Notebooks/COVID-19\ Prediction.ipynb
 date >> ./Scripts/Logs/run_log.txt
 
 
-# Push to github
-------------------------------
+# Push to github at https://github.com/pranavmishra90/COVID-19
+#------------------------------------------------------------------
 # Add all files to the repository with respect to .gitignore rules
 git add .
 
