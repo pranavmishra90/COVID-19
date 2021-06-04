@@ -35,4 +35,4 @@ git add .
 git commit -m "Automatic update at `date +'%Y-%m-%d %H:%M:%S'`"
 
 # Push changes towards GitHub
-git push -u origin master
+git push origin master
