@@ -11,16 +11,16 @@ COVID-19 Dashboard
   
 This repository is an automatically updating working paper. It is published by Zenodo and indexed in openAIRE. Latest version: [![DOI](https://zenodo.org/badge/287867933.svg)](https://zenodo.org/badge/latestdoi/287867933)  
 ## Dashboard details  
-**Latest update from JHU CSSE COVID-19 Data:** Tuesday, Aug 03, 2021 at 12:00:00 AM
+**Latest update from JHU CSSE COVID-19 Data:** Wednesday, Aug 04, 2021 at 12:00:00 AM
 
   
-This dashboard file was automatically generated at Wednesday, Aug 04, 2021 at 01:00:31 AM. It took 0:00:19.540504 to run.  
+This dashboard file was automatically generated at Thursday, Aug 05, 2021 at 01:00:32 AM. It took 0:00:14.871019 to run.  
 ## Important Numbers
   
 |Country|# Cases | Doubling Time (Days)  
 | :----------:  | :----------:  | :----------:  |  
-US |35237950 | 300.0  
-India |31726507 | 773.0  
+US |35330664 | 293.0  
+India |31769132 | 781.0  
 
   
 
