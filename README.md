@@ -14,13 +14,13 @@ This repository is an automatically updating working paper. It is published by Z
 **Latest update from JHU CSSE COVID-19 Data:** Monday, Nov 01, 2021 at 12:00:00 AM
 
   
-This dashboard file was automatically generated at Tuesday, Nov 02, 2021 at 01:00:33 AM. It took 0:00:14.870620 to run.  
+This dashboard file was automatically generated at Wednesday, Nov 03, 2021 at 01:00:32 AM. It took 0:00:14.373678 to run.  
 ## Important Numbers
   
 |Country|# Cases | Doubling Time (Days)  
 | :----------:  | :----------:  | :----------:  |  
-US |46091924 | 502.0  
-India |34285814 | 2369.0  
+US |46096258 | 497.0  
+India |34296237 | 2063.0  
 
   
 
