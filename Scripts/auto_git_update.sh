@@ -1,4 +1,4 @@
-cd ~/research/covid-19/
+cd /home/pranav/research/covid-19/
 
 # Add all files to the repository with respect to .gitignore rules
 git add .
